@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tati-Sher
-- 👀 I’m interested in QA 
-- 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in QA
+- 🌱 I’m currently learning Automation on Java, Selenium ID, API
+- 💞️ I’m looking to collaborate on Startup
 - 📫 How to reach me tatytester@gmail.com
 
 <!---
